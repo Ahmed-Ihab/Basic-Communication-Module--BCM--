@@ -7,7 +7,7 @@
 
 #include"BCM.h"
 
-#define RX_BUFFER_SIZE 1000
+#define RX_BUFFER_SIZE 100		//testcase
 
 static void Received_Frame_Notification(void) ;
 static void Transmit_Frame_Notification (void);
